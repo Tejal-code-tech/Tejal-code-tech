@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tejal Shirsath 👋
 
-<!--
-**Tejal-code-tech/Tejal-code-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML and Full-Stack Developer
 
-Here are some ideas to get you started:
+🌐 https://myportfolio-tan-phi-20.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an IT graduate interested in Web Development,
+Artificial Intelligence and Machine Learning.
+
+### Technical Skills
+- HTML, CSS, JavaScript, React.js
+- Python, Flask, PHP
+- MySQL, SQLite
+- Machine Learning, OpenCV, Scikit-learn
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/tejal-shirsath-46a951313
+- GitHub: https://github.com/Tejal-code-tech
